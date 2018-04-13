@@ -21,6 +21,12 @@ Reload your bash
 ```bash
 $ source ~/.bash_profile
 ```
+Execute
+
+```bash
+$ mynet-still-up
+```
+
 
 ### Future lazy improvments
 
