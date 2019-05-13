@@ -1,6 +1,6 @@
 #!/bin/bash
 
-projects_file="/Users/evaldo/Desktop/end.txt"
+projects_file="wherever/you/have/saved/the/exported/list.txt"
 
 while read LINE
     do git clone $LINE
