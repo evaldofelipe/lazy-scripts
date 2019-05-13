@@ -1,6 +1,6 @@
 # Git clone all projects
 
-Sometimes when you format your pc or move all your projects together to other place, every time you need to clone repo by repo, and forget some folder. It's very common and very depressed this developer life cycle part.
+Sometimes when you format your pc or move all your projects together to other place, every time you need to clone repo by repo, and forget some folder. It's a very common and depressing part of the developer life cycle.
 
 This script go to your project home folder where you clone all repos, and get the repository url on each project, and save on a file. After this, use the other script to clone all projects at same time, while you drink your coffee or watch some south park episode.
 

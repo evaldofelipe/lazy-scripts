@@ -6,7 +6,7 @@ If you get lazy to make some usual tasks too, fell free to send your merge reque
 
 - [git-clone-all](git-clone-all/README.md)
 
-Save and clone all your repositories at same time, like a charm. 
+Save and clone all your repositories at same time.
 
 - [my-net-still-up](net-still-up/README.md)
 
